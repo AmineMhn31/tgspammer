@@ -27,7 +27,8 @@ If you put an star on the repository - the work was done for a reason.
 
 Unless you have a need to work with the program via python, in which case you can use the release version in exe format for full usability with the GUI. The program itself will perform all necessary actions for you, open GUI, you only need to enter data and click Start.
 
-[DOWNLOAD EXE FILE](https://www.github.com/)
+[DOWNLOAD EXE FILE]([https://www.github.com/](https://github.com/AmineMhn31/tgspammer/releases/tag/RELEASE))
+
 
 # 1. PYTHON DOWNLOAD #
 
