@@ -1,6 +1,6 @@
 # Telegram Mailing TG / Telegram Spam TG
 
-![TGSpammer](tgspammer.jpg)
+![TGSpammer](wallpaper.jpg)
 
 - [Introduction](#Introduction)
 - [0. EXE DOWNLOAD](#0-exe-download)
